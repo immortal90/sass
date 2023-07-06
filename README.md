@@ -1,7 +1,7 @@
 # CSS library
 Description: This is my first CSS library created using Sass, HTML, JS, and Gulp.
 
-##Installation
+#Installation
 Clone the repository: git clone https://github.com/immortal90/sass.git
 Navigate to the project directory: cd your-project
 Install dependencies: npm install
